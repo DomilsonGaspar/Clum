@@ -1,2 +1,2 @@
 # Clum
-CLUM is a URL Manager that allow to Load or Redirect, Reload, Update, Gets vars, Put vars, all by URL
+CLUM is a URL Manager that allow to load or redirect, reload, update, gets vars, put vars, all by URL
